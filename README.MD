@@ -35,9 +35,9 @@ exports.html = html;
 ```html
 // Output
 <picture>
-	<source srcset="img/image.avif" type="image/avif">
-	<source srcset="img/image.webp" type="image/webp">
-	<img src="img/image.jpg" alt="image">
+    <source srcset="img/image.avif" type="image/avif">
+    <source srcset="img/image.webp" type="image/webp">
+    <img src="img/image.jpg" alt="image">
 </picture>
 ```
 
