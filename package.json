@@ -1,0 +1,29 @@
+{
+	"name": "gulp-avif-webp-html",
+	"version": "1.0.0",
+	"description": "Gulp extension, replace html element <img> to <picture> for AVIF and WEBP  support",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/powerrampage/gulp-avif-webp-html.git"
+	},
+	"keywords": [
+		"avif",
+		"webp",
+		"source",
+		"picture",
+		"img-to-picture",
+		"type-avif",
+		"type-webp",
+		"html-tag-picture"
+	],
+	"author": "powerrampage",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/powerrampage/gulp-avif-webp-html/issues"
+	},
+	"homepage": "https://github.com/powerrampage/gulp-avif-webp-html#readme"
+}
